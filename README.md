@@ -7,4 +7,22 @@ usage :
  - yarn 
  - yarn start
  - post request  http://localhost:1201/merge 
+ 
+ 
+ 
+ 
+ ### Post request structure
+ 
+ ```json
+
+ {
+	"files" : [
+		"https://url.......pdf",
+		"https://url.......pdf"
+	]
+ 
+}
+
+```
+
 
