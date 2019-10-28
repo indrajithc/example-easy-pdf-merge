@@ -1,0 +1,19 @@
+{
+  "name": "example-easy-pdf-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "easy-pdf-merge": "^0.2.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "uuid": "^3.3.3"
+  }
+}
